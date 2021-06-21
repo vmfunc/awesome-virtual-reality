@@ -1,29 +1,111 @@
 # Awesome Virtual Reality [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list about Virtual Reality &amp; VRChat
+> 🥕 A curated list about Virtual Reality &amp; VRChat
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Virtual Reality with Unity](#unity)
+- [Virtual Reality Engines](#engines)
+- [Virtual Reality with Unreal Engine](#unreal-engine)
+- [Virtual Reality Projects](#projects)
+- [Virtual Reality Headsets, Accessories](#Headsets-and-Accessories)
+- [Virtual Reality Tools](#tools)
+- [VRChat Avatars and Assets](#vrchat)
 
 
-## Section
+## Unity
 
-About this section. Optional. Keep this short and focus on the list.
+Unity, Unity, Unity, Unity is a multiplatform game engine developed by Unity Technologies. It is one of the most widespread in the video game industry, both for large studios and for independents because of its speed in prototyping and because it allows games to be released on all media.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [How to make a VR Game with Unity, Part 1](https://www.youtube.com/watch?v=sKQOlqNe_WY)
+- [Oculus Docs, Build a VR Game with Unity](https://developer.oculus.com/documentation/unity/unity-tutorial/)
+- [Unity Learn, Design, Develop, and Deploy for VR](https://learn.unity.com/course/oculus-vr)
+- ["Level up your VR Skills with Unity and Oculus"](https://blog.unity.com/games/level-up-your-vr-skills-with-a-free-new-course-from-unity-and-oculus)
+- [Unity VR Landpage](https://unity.com/solutions/ar-and-vr-games)
+- [Creating a VR Game with Unity](https://gamedevelopment.tutsplus.com/tutorials/creating-a-vr-game-in-unity--cms-29936)
+- [First setup to build games with Unity and Oculus](https://circuitstream.com/blog/oculus-unity-setup/)
+- [Unity Docs, VR Games](https://docs.unity3d.com/540/Documentation/Manual/VROverview.html)
+- [Udemy, Unity VR Development course](https://www.udemy.com/course/unity-game-development-make-3d-vr-games/)
+- [Developing your First VR Game step by step with Quest 2](https://www.xrterra.com/developing-for-vr-with-quest-2-unity-for-the-first-time-a-step-by-step-guide/)
+- [Oculus x Unity, The features](https://venturebeat.com/2019/11/17/oculus-and-unity-offer-new-intermediate-level-guide-to-making-vr-games/)
+- [How to make awesome 3D Games with Unity](https://www.udemy.com/course/build-30-mini-virtual-reality-games-in-unity-3d-from-scratch)
 
 
-## Another Section
+## Engines
 
-### Subsection
+A list of every engine I could find for virtual reality, free or paid.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Unity](https://www.slant.co/topics/2202/viewpoints/1/~best-game-engines-for-virtual-reality-development~unity)
+- [AppGameKit VR](https://www.slant.co/topics/2202/viewpoints/9/~best-game-engines-for-virtual-reality-development~appgamekit-vr)
+- [SkyLine](https://www.slant.co/topics/2202/viewpoints/8/~best-game-engines-for-virtual-reality-development~skyline)
+- ["Unreal Engine 4"](https://www.slant.co/topics/2202/viewpoints/2/~best-game-engines-for-virtual-reality-development~unreal-engine-4)
+- [Godot](https://www.slant.co/topics/2202/viewpoints/13/~best-game-engines-for-virtual-reality-development~godot)
+- [Urho 3D](https://www.slant.co/topics/2202/viewpoints/6/~best-game-engines-for-virtual-reality-development~urho3d)
+- [CryEngine](https://www.slant.co/topics/2202/viewpoints/5/~best-game-engines-for-virtual-reality-development~cryengine)
+- [LeadWerks](https://www.slant.co/topics/2202/viewpoints/16/~best-game-engines-for-virtual-reality-development~leadwerks-game-engine)
+- [LibGDX](https://www.slant.co/topics/2202/viewpoints/7/~best-game-engines-for-virtual-reality-development~libgdx)
+- [SpriteKIT](https://www.slant.co/topics/2202/viewpoints/14/~best-game-engines-for-virtual-reality-development~spritekit)
+- [Torque3D](https://www.slant.co/topics/2202/viewpoints/3/~best-game-engines-for-virtual-reality-development~torque3d)
+- [CopperCube](https://www.slant.co/topics/2202/viewpoints/4/~best-game-engines-for-virtual-reality-development~coppercube)
+- [ApertusVR](https://www.slant.co/topics/2202/viewpoints/11/~best-game-engines-for-virtual-reality-development~apertusvr)
+- [Autodesk Maya](https://www.slant.co/topics/2202/viewpoints/10/~best-game-engines-for-virtual-reality-development~autodesk-maya)
 
+## Unreal Engine
+
+Unreal Engine is a proprietary video game engine developed by Epic Games. The main competitors of this engine are Unity and CryEngine developed by Crytek.
+
+- [Introduction to VR Dev with Unreal Engine](https://www.youtube.com/watch?v=1PTTuZ_F8Nk)
+- [Getting Started in VR, Unreal Engine 4](https://www.youtube.com/watch?v=afodIcU_vK4)
+- [Unreal Engine docs, Getting Started](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/XRDevelopment/VR/)
+- [Oculus Developer, Unreal Engine 4](https://developer.oculus.com/unreal/)
+- [Udemy, Unreal Engine Course](https://www.udemy.com/course/unrealvr/)
+- [Unity VS Unreal Engine](https://circuitstream.com/blog/unity-vs-unreal/)
+- [Making a Game with UE4 and Publishing it](https://80.lv/articles/making-a-vr-game-with-ue4-publishing-it/)
+- [Creating a Basic VR Demo using Unreal Engine](https://virtualrealitypop.com/start-a-vr-demo-using-the-unreal-engine-63d31eeaf784)
+- [Unreal Engine quick start guide](https://www.oreilly.com/library/view/unreal-engine-virtual/9781789617405/)
+- [Unreal Engine, OpenXR Native support](https://www.roadtovr.com/unreal-engine-5-vr-template-openxr-lumen-nanite-support/)
+- [Unreal Engine for Augmented and Virtual Reality](https://www.unrealengine.com/en-US/xr)
+- [Unreal Engine UE5 Early Access, and VR !](https://uploadvr.com/unreal-engine-5-early-access-vr/)
+- [Unreal Engine 5, A generational leap for VR](https://www.reddit.com/r/oculus/comments/gj4wu6/unreal_engine_5_a_generational_leap_for_vr/)
+
+## Projects
+
+A list of Virtual Reality repos and Project. I'm looking for a lot of help for this section, so feel free to contribute !
+
+- [a](https://a)
+
+## Heasets and Accessories
+
+### Headsets
+
+A list of headsets for virtual reality. The first ones are the most recommended and used.
+
+- [Oculus Rift / Rift S](https://www.oculus.com/rift/)
+- [Oculus Quest](https://www.oculus.com/quest/)
+- [HTC Vive](https://www.vive.com)
+- [HTC Vive Pro](https://www.vive.com)
+- [HTC Vive Cosmos](https://www.vive.com)
+- [Valve Index](https://en.wikipedia.org/wiki/Valve_Index)
+- [Pimax / Pimax 4K](https://en.wikipedia.org/wiki/Pimax#Pimax_4K)
+- [Fove](https://en.wikipedia.org/wiki/Fove)
+- [Playstation VR](https://en.wikipedia.org/wiki/PlayStation_VR)
+- [Open-Source Virtual Reality](https://en.wikipedia.org/wiki/Open_Source_Virtual_Reality)
+- [Microsoft HoloLens](https://en.wikipedia.org/wiki/Microsoft_HoloLens)
+- [Samsung Gear VR](https://en.wikipedia.org/wiki/Samsung_Gear_VR)
+- [Oculus Go](https://en.wikipedia.org/wiki/Oculus_Go)
+
+### Full-Body Tracking
+
+This section is still Work-In-Progress, it should be done in a few days !
+
+## Tools
+
+This section is still Work-In-Progress, it should be done in a few days !
+
+## VRChat
+
+This section is still Work-In-Progress, it should be done in a few days !
 
 ## Contribute
 
