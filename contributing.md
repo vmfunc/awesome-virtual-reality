@@ -8,11 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Don't post irrelevant or down links
+- Check that the content you want to post is not already in the list
+- Please name your Pull Request with a **comprehensive** name, such as `Add [link]` or `Update [link]` 
 
-Thank you for your suggestions!
+Thank you very much for your suggestions!
 
 
 ## Updating your PR
