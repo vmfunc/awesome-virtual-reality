@@ -110,15 +110,14 @@ A list of headsets for virtual reality. The first ones are the most recommended 
 
 ### Full-Body Tracking
 
-This section is still Work-In-Progress, it should be done in a few days !
-
+This section is still Work-In-Progress.
 ## Tools
 
-This section is still Work-In-Progress, it should be done in a few days !
+This section is still Work-In-Progress.
 
 ## VRChat
 
-This section is still Work-In-Progress, it should be done in a few days !
+This section is still Work-In-Progress.
 
 ## Contribute
 
