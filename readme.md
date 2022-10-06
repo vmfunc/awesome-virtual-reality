@@ -86,6 +86,7 @@ A list of Virtual Reality repos and Project. I'm looking for a lot of help for t
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK)
 - [WebXR - Web Experiences](https://github.com/immersive-web/webxr)
 - [IPYvolume 3](https://github.com/maartenbreddels/ipyvolume)
+- [Explore Virtual Reality Libraries & Projects](https://kandi.openweaver.com/explore/augmented-reality-virtual-reality) - Explore a curated list of VR popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## Heasets and Accessories
 
