@@ -111,14 +111,44 @@ A list of headsets for virtual reality. The first ones are the most recommended 
 
 ### Full-Body Tracking
 
-This section is still Work-In-Progress.
+- [Valve Index Controllers](https://www.valvesoftware.com/en/index/controllers)
+- [Xsens MVN Animate](https://www.xsens.com/products/mvn-animate/)
+- [ANTILATENCY](https://antilatency.com/)
+- [Vive Tracker 3.0](https://www.vive.com/eu/product/vive-tracker-3-0/)
+- [PhaseSpace Impulse X2E](https://www.phasespace.com/impulse-x2e)
+- [Rokoko Smartsuit Pro](https://www.rokoko.com/en/products/smartsuit-pro)
+- [IKinema Orion](https://www.ikinema.com/products/orion/)
+- [Perception Neuron 2.0](https://neuronmocap.com/products/perception-neuron-2-0)
+- [Rebuff Reality TrackStrap](https://rebuffreality.com/products/trackstrap)
+- [Noitom Perception Neuron Pro](https://neuronmocap.com/products/perception-neuron-pro)
+- [NullSpace VR Gloves](https://nullspacevr.com/gloves)
+
 ## Tools
 
-This section is still Work-In-Progress.
+- [Substance Painter](https://www.substance3d.com/products/substance-painter/)
+- [ZBrush](https://pixologic.com/)
+- [Houdini](https://www.sidefx.com/)
+- [Marmoset Toolbag](https://marmoset.co/toolbag/)
+- [3D-Coat](https://3dcoat.com/home/)
+- [Quixel Mixer](https://quixel.com/mixer)
+- [Allegorithmic Substance Designer](https://www.substance3d.com/products/substance-designer/)
+- [Pix4Dmapper](https://www.pix4d.com/)
+- [MagicaVoxel](https://ephtracy.github.io/)
+- [Photoscan](https://www.agisoft.com/)
+- [Metashape](https://www.agisoft.com/)
 
 ## VRChat
 
-This section is still Work-In-Progress.
+- [VRChat Worlds](https://vrchat.com/home/worlds)
+- [Blender to VRChat Toolkit](https://github.com/ChrisUC/Blender-to-VRChat-Toolkit)
+- [Cat's Blender Plugin](https://github.com/cats-blender-plugin/cats-blender-plugin)
+- [VRC Gesture Manager](https://github.com/knah/VRCGestureManager)
+- [VRC Quest Camera](https://github.com/knah/VRCQuestCamera)
+- [UdonSharp](https://github.com/Merlin-san/UdonSharp)
+- [VRChat Discord](https://discord.gg/vrchat)
+- [VRChat Legends](https://www.vrchatlegends.com/)
+- [VRChat Avatar World](https://vrchat.com/home/world/wrld_71f3a573-cb2c-46d7-9c02-d6a3031b8c38)
+- [VRC Shaders](https://vrcmods.com/categories/vrc-shaders)
 
 ## Contribute
 
